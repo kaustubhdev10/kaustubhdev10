@@ -28,7 +28,7 @@
 ## 📌 Featured Projects
 -  **Numerical Weather Prediction using AI**  
    CNN-LSTM hybrid model for accurate weather forecasting.  
-   → [Repo Link](#)  
+   → [Repo Link](https://github.com/Akshaynair47/Enhanced-NWP)  
 
 -  **Skin Disease Detection**  
    Transfer Learning + Docker + Kubernetes for cloud-ready deployment.  
@@ -36,7 +36,7 @@
 
 -  **Similar Word Prediction (NLP)**  
    Lightweight NLP project.  
-   → [Repo Link](#) 
+   → [Repo Link](https://github.com/kaustubhdev10/similar-word-prediction) 
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kaustubh-dev-14bb99235/)
