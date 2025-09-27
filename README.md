@@ -22,9 +22,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kaustubhdev10&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 ## 📌 Featured Projects
 -  **Numerical Weather Prediction using AI**  
    CNN-LSTM hybrid model for accurate weather forecasting.  
