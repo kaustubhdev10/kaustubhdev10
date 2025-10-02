@@ -23,6 +23,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kaustubhdev10&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 📌 Featured Projects
+
+-  **MediTrack**  
+   MediTrack is a full-stack Machine Learning project using React, Python, MongoDB, and Streamlit. It manages medicines with role-based access, tracks stock/orders, raises expiry/shortage alerts, and uses ML for demand prediction.  
+   → [Repo Link](https://github.com/kaustubhdev10/MediTrack)
+
 -  **Numerical Weather Prediction using AI**  
    CNN-LSTM hybrid model for accurate weather forecasting.  
    → [Repo Link](https://github.com/Akshaynair47/Enhanced-NWP)  
