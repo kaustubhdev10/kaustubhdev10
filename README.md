@@ -4,7 +4,7 @@
 
 ---
 
-##  About Me
+##  If you care
 -  Final Year CSE (AI & ML) student  
 -  Passionate about **AI research, ML Ops, and Full-Stack development**  
 -  Building projects that bridge **AI with real-world impact**  
