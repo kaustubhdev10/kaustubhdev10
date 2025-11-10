@@ -42,7 +42,7 @@
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kaustubh-dev-14bb99235/)
-- [GitHub](https://github.com/Kaustubh-Dev)
+- [GitHub](https://github.com/kaustubhdev10)
 - [Email](kaustubhdev10@gmail.com)  
 
 ---
